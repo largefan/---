@@ -1,0 +1,7 @@
+<view>
+  <view class="my-container">
+      <image src="/images/猫头.jpg" ></image>
+      <text>微信用户</text>
+  </view>
+ </view>
+ <view>京东，欢迎您！！！</view>
